@@ -48,6 +48,13 @@ a:hover, a:focus {
 	outline: none;
 	text-decoration: none;
 }
+.github-link {
+    display: none;
+}
+
+.welcome-modal {
+    display: none !important;
+}
 :focus{
 	outline: 0;
 }
